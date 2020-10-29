@@ -1,0 +1,14 @@
+.heading {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    margin: 0px;
+    padding: 0px;
+}
+.paragraph {
+
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0px;
+    padding: opx;
+}
